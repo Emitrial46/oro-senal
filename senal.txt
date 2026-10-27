@@ -1,0 +1,16 @@
+# PRUEBA - senal ficticia, NO es del informe. No operar con esto.
+version=1
+edicion=PRUEBA 27/10/2026 17:30
+generado_utc=1792000000
+precio=4000
+sesgo=0
+techo=4020;4030
+cierre=3995;4005
+suelo=3970;3980
+banda1=3990;4010
+banda15=3985;4015
+sigma=10
+objetivo=cierre_sesion
+noticias_utc=
+picos=4025;4045
+fin=ok
