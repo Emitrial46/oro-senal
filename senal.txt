@@ -1,14 +1,14 @@
 # Senal para Oro_Autonomo. La escribe una tarea programada a partir del informe diario.
 version=1
-edicion=Lunes 02/11/2026 manana 08:20 Madrid
-generado_utc=1793604000
-precio=3906
-sesgo=-30
-techo=3930;3952
-cierre=3888;3910
-suelo=3869;3885
-banda1=3859;3953
-banda15=3836;3976
+edicion=Lunes 02/11/2026 media tarde 15:40 Madrid
+generado_utc=1793630400
+precio=3940
+sesgo=-12
+techo=3968;3986
+cierre=3936;3960
+suelo=3910;3926
+banda1=3893;3987
+banda15=3869;4011
 sigma=47
 objetivo=cierre_sesion
 noticias_utc=1793630700;1793631600;1793636100;1793718000;1793798100;1793799000;1793804400;1793806200;1793885400;1793886600;1793971800;1793977200
