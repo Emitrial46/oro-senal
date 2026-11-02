@@ -1,7 +1,7 @@
 # Senal para Oro_Autonomo. La escribe una tarea programada a partir del informe diario.
 version=1
-edicion=Lunes 02/11/2026 media tarde 17:35 Madrid
-generado_utc=1793637300
+edicion=Lunes 02/11/2026 media tarde 18:00 Madrid
+generado_utc=1793638800
 precio=3959
 sesgo=0
 techo=3975;3990
